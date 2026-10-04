@@ -1,0 +1,7 @@
+{
+  "name": "ionic-webgpu-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
